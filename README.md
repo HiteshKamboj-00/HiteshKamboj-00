@@ -1,6 +1,6 @@
-## Hi there 👋
+## Hi there 👋 Hitesh this side..
 # 💫 About Me:
-I’m currently working on my fundamentals more deeply and actively looking to contribute to open-source projects to gain real-world, hands-on experience
+I’m currently working on my fundamentals more deeply and actively looking to contribute to open-source projects to gain real-world, hands-on experience.....
 
 
 ## 🌐 Socials:
